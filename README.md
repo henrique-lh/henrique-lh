@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://github.com/EngComp-Henrique/raw/main/assets/header-github.gif" alt="Hi 👋, I'm Henrique">
 </p>
 
