@@ -2,6 +2,18 @@
   <img src="https://github.com/EngComp-Henrique/EngComp-Henrique/raw/main/assets/new-header.gif" alt="Hi 👋, I'm Henrique">
 </p>
 
+<!--
+How to make this gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
+
+<hr>
+
 - 🌱 I’m currently learning **Pandas, Numpy, Scikit-learn**
 - 👯 I’m looking to collaborate on **data science, IA and software engineering projects**
 - 👨‍💻 All of my projects are available at [https://github.com/EngComp-Henrique](https://github.com/EngComp-Henrique)
@@ -17,8 +29,7 @@
 
 <h3 align="left">📊 Github Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engcomp-henrique&show_icons=true&locale=en" alt="engcomp-henrique" /></p>
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=engcomp-henrique&show_icons=true&locale=en" alt="engcomp-henrique" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engcomp-henrique&" alt="engcomp-henrique" /></p>
 
 <h3 align="left">🔗 Connect with me:</h3>
