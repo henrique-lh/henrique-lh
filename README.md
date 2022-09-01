@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EngComp-Henrique/EngComp-Henrique/raw/main/assets/header-github.gif" alt="Hi 👋, I'm Henrique">
+  <img src="https://github.com/EngComp-Henrique/EngComp-Henrique/raw/main/assets/new-header.gif" alt="Hi 👋, I'm Henrique">
 </p>
 
 - 🌱 I’m currently learning **Pandas, Numpy, Scikit-learn**
