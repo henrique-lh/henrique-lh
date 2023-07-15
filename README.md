@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EngComp-Henrique/EngComp-Henrique/raw/main/assets/new-header.gif" alt="Hi 👋, I'm Henrique">
+  <img src="https://github.com/henrique-lh/henrique-lh/raw/main/assets/new-header.gif" alt="Hi 👋, I'm Henrique">
 </p>
 
 <!--
@@ -29,8 +29,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 <table>
     <tr>
-        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api?username=engcomp-henrique&show_icons=true&locale=en" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engcomp-henrique&show_icons=true&locale=en&layout=compact" alt="engcomp-henrique"/></td>
+        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api?username=henrique-lh&show_icons=true&locale=en" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique-lh&show_icons=true&locale=en&layout=compact" alt="henrique-lh"/></td>
     </tr>   
 </table>
 
