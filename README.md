@@ -3,7 +3,7 @@ Hi 👋! Welcome to my profile, I'm Luís Henrique a code enthusiast and passion
 </p>
 
 <p>
-Currently, I'm a back-end developer with F# + Giraffe framework MLOps Engineer using Python 🐍. Besides that, I've working on some projects using FastAPI and learning some front-end development. Feel free to contact me!
+Currently, I'm a back-end developer with F# + Giraffe framework and  a MLOps Engineer using Python 🐍. Besides that, I've working on some projects using FastAPI and learning some front-end development. Feel free to contact me!
 </p>
 
 
